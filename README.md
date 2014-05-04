@@ -1,4 +1,4 @@
 Intern-Trainning
 ================
 
-company Internal trainning site.
+Team internal trainning site.
